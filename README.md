@@ -1,5 +1,20 @@
 # Predicting Credit Risk with Supervised Machine Learning
 
+                _._._                       _._._
+                _|   |_                     _|   |_
+                | ... |_._._._._._._._._._._| ... |
+                | ||| |  o NATIONAL BANK o  | ||| |
+                | """ |  """    """    """  | """ |
+        ())  |[-|-]| [-|-]  [-|-]  [-|-] |[-|-]|  ())
+        (())) |     |---------------------|     | (()))
+        (())())| """ |  """    """    """  | """ |(())())
+        (()))()|[-|-]|  :::   .-"-.   :::  |[-|-]|(()))()
+        ()))(()|     | |~|~|  |_|_|  |~|~| |     |()))(()
+            ||  |_____|_|_|_|__|_|_|__|_|_|_|_____|  ||
+        ~ ~^^ @@@@@@@@@@@@@@/=======\@@@@@@@@@@@@@@ ^^~ ~
+            ^~^~                                ~^~^
+
+
 A machine learning model that attempts to predict whether a loan from LendingClub will become high risk or not.
 
 # Credit Risk Evaluator
