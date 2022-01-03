@@ -14,6 +14,22 @@
         ~ ~^^ @@@@@@@@@@@@@@/=======\@@@@@@@@@@@@@@ ^^~ ~
             ^~^~                                ~^~^
 
+__________________
+
+
+<details>
+<summary> Tools, Languages, & Libraries Utilized</summary>
+<li>Python</li>
+<li>Pandas</li>
+<li>Pathlib</li>
+<li>Sklearn - LogisticRegression, RandomForestClassifier</li>
+<li>VS Code</li>
+<li>Jupyter Notebook</li>
+</details>
+
+__________________
+
+
 
 A machine learning model that attempts to predict whether a loan from LendingClub will become high risk or not.
 
